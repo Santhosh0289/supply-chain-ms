@@ -145,14 +145,14 @@ http://127.0.0.1:8000/docs
 
 ## 📸 Screenshots
 
-#Login Page
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6bf4eb24-aab5-449c-9f94-479a28472b8d" />
+##Login Page
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2f709e6-3800-4a35-b003-8d56283748a0" />
 
 
-Example:
-- Dashboard UI  
-- Inventory page  
-- Order tracking  
+##Dashboard UI  
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3ba8c27-c17a-4b92-91a2-f3cae002175f" />
 
 ---
 
@@ -179,4 +179,4 @@ MIT License
 
 ## 👨‍💻 Author
 
-Santhosh
+Santhosh S
