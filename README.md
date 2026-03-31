@@ -137,18 +137,6 @@ ACCESS_TOKEN_EXPIRE_MINUTES → token expiry time
 
 ---
 
-## 🔗 API Integration (Frontend)
-
-Inside frontend, create `.env`:
-
-VITE_API_URL=http://127.0.0.1:8000  
-
-Use it in code:
-
-import.meta.env.VITE_API_URL  
-
----
-
 ## 📊 API Documentation
 
 http://127.0.0.1:8000/docs  
@@ -157,7 +145,9 @@ http://127.0.0.1:8000/docs
 
 ## 📸 Screenshots
 
-(Add screenshots here for better impact)
+#Login Page
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6bf4eb24-aab5-449c-9f94-479a28472b8d" />
+
 
 Example:
 - Dashboard UI  
