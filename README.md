@@ -106,6 +106,7 @@ cd frontend
 
 # install dependencies  
 npm install  
+npm install axios react-router-dom react-toastify recharts lucide-react
 
 # start development server  
 npm run dev  
