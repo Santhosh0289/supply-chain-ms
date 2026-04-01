@@ -71,7 +71,7 @@ supply-chain-ms/
 
 ## 🔹 1. Clone Repository
 
-git clone https://github.com/your-username/supply-chain-ms.git  
+git clone https://github.com/Santhosh0289/supply-chain-ms.git  
 cd supply-chain-ms  
 
 ---
